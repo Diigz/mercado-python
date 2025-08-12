@@ -46,7 +46,7 @@ source venv/bin/activate
 Execute o arquivo principal:
 
 ```bash
-python mercado.py
+python main.py
 ```
 
 Ao rodar, o sistema mostra um menu semelhante a:
@@ -119,7 +119,7 @@ source venv/bin/activate
 Run the main file:
 
 ```bash
-python mercado.py
+python main.py
 ```
 
 When running, the system displays a menu similar to:
