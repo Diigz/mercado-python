@@ -1,4 +1,5 @@
-# Site em manutenção !!
+# Aplicativo em manutenção !!
+# Falta estruturar e muito mais...
 
 import os
 import time
